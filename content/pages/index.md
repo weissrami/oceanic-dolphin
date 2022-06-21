@@ -3,7 +3,7 @@ layout: Page
 title: Stackbit Next.js Starter
 sections:
   - type: HeroSection
-    heading: Live with good impact on our world
+    heading: World good impact
     subheading: >
       You've just [unlocked visual editing
       capabilities](https://www.stackbit.com/) in this Next.js app.
